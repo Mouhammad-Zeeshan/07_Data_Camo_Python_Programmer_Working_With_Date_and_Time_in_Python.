@@ -1,0 +1,35 @@
+
+07:Working with Date & Time in Pyhthon.
+
+Key_Words:
+
+Chapter-01:
+1. datetime module
+2. delta 
+3. .days()
+4. week()
+5. Month()
+6. .Year()
+7. .isoforamt()
+8. strftime()
+
+Chapter-02:
+1. %Y for four digit year
+2. %m for month
+3. %d for date
+4. %H, %M, %S for hour, minutes and Seconds.
+5. time stamp to normal date
+
+
+Chapter-03:
+1. timezone library
+2. tzinfo
+3.  astimezone
+4. .replace(tzinfo=timezone.utc)
+5. from dateutil import tz
+
+Chapter-04:
+1. parse_dates in pandas
+2. resample in pandas
+3. pandas/dt/day_name
+4. 	
